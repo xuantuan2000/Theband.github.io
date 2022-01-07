@@ -1,0 +1,14 @@
+Phân tích Project The Band W3school
+	
+	1. Phân tích 
+		a, header
+		b, slider
+		c, content
+			- About
+			- Tour
+			- Contact
+			- Images
+			- Footer
+	2. Dựng Base ( Xây móng)
+	3. Xây dựng từng phần theo phân tích
+	4. Hoàn thiện
