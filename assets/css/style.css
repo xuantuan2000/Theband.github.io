@@ -134,7 +134,7 @@ input{
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url(/TheBand_W3/assets/img/chicago.jpg) top center / cover no-repeat;
+    background: url(https://www.w3schools.com/w3images/chicago.jpg) top center / cover no-repeat;
 }
 
 .slider .text{
